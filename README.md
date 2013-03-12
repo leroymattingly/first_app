@@ -1,4 +1,4 @@
-first_app
-=========
+# Ruby on Rails Tutorial: first application
 
-Ruby on rails first application
+This is the first application fro the [*Ruby on Rails Tutorial*](http://railstutorial.org) by [LeRoy Mattingl] (http://www.tectonsoftware.com/).
+
